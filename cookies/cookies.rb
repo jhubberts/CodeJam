@@ -1,4 +1,4 @@
-#!/apollo/env/ruby193/bin/ruby
+#!/usr/bin/env ruby
 # Google Code Jam problem to get cookies
 
 STARTING_COOKIE_RATE = 2.0;

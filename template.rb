@@ -1,4 +1,4 @@
-#!/apollo/env/ruby193/bin/ruby
+#!/usr/bin/env ruby
 
 ROWS_PER_TEST_CASE
 

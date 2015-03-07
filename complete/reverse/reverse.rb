@@ -1,4 +1,4 @@
-#!/apollo/env/ruby193/bin/ruby
+#!/usr/bin/env ruby
 
 f = File.new( ARGV[0] )
 
